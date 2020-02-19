@@ -1,0 +1,13 @@
+{
+        "manifest_version": 2,
+        "name": "Hrypton password manager Plugin",
+        "description": "secure password manager that works in other way learn more on hrypton.ir",
+        "version": "1.0",
+        "browser_action": {
+                "default_icon": "logo.png",
+                "default_popup": "index.html"
+        },
+        "permissions": [
+                
+        ]
+}

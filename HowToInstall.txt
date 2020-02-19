@@ -1,0 +1,12 @@
+ 
+1. open your browser
+
+2. type chrome://extensions/
+
+3. make develper mode enable
+
+4. click on "Load unpacked"
+
+5. select "hrypton for chrome" folder
+
+6. enjoy
