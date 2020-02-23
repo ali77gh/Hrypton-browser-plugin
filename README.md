@@ -6,7 +6,7 @@ web browser extentaion for hrypton project.
 
 # how to install on chrome
 
-0. download zip file or clone repo
+0. download zip file and unzip or clone repo 
 
 1. open your browser
 
@@ -16,13 +16,25 @@ web browser extentaion for hrypton project.
 
 4. click on "Load unpacked"
 
-5. select "hrypton for chrome" folder
+5. select folder of what you unzip in step 0 folder
 
 6. enjoy
 
 # how to install on firefox
 
-todo
+0. download zip file and unzip or clone repo 
+
+1. open firefox browser
+
+2. click menu. then click "Add-ons"
+
+3. click on gear icon and select "debug Add-ons"
+
+4. click on "Load temprary Add-ons"
+
+5. select one of file that is inside of what you unzip in step 0
+
+6. enjoy
 
 # run without installing on browser
 
